@@ -100,6 +100,54 @@ Multi camera 방식을 도입함에 따라 기존 single camera의 사각에 숨
 |Background subtraction by PNG dataset|62.77%|
 |Unified dataset|86.92%|
 
+### 이벤트 측정에 의한 실제 인식률 비
+
+ Single camera model과 weight sensor, multi camera model의 인식률을 측정하기 위하여 실제 판매대에서 실험을 진행하였다.
+ 
+물체가 빠져나가거나 들어오는 것을 하나의 event로 가정하여 각각의 event에 대해서 물체를 오인식 혹은 미인식하는 경우를 확인하였다. 
+
+Weight sensor의 경우 물체가 빠져나가거나 들어왔을 때에 카메라가 인식한 물체가 weight sensor가 인식한 물체들의 후보에 있을 경우 
+
+해당 물체를 제대로 인식한 event라 가정하였다. 
+
+또한 multi camera의 경우 3개의 카메라에 대하여 weighted parameter와 threshold를 정하지 못했기에 
+
+모든 카메라에서 오인식 혹은 미인식한 경우만 틀린 event라고 가정하였다. 
+
+같은 동영상으로 같은 event에 대해 single camera, weight sensor, multi-camera, multi-camera with weight sensor로 테스트한 인식률은 다음과 같다.
+
+|Method|accuracy|
+|------|---|
+|Single camera|73.61%|
+|Weight Sensor with single camera|91.67%|
+|Multi camera|83.33%|
+|Weight Sensor with multi camera|95.83%|
+
+
+### 결과 분석
+
+Dataset의 인식률을 분석한 결과 unified dataset의 mAP가 86.92%로 가장 높았으며 
+
+그 다음으로는 human-labeled dataset가 82.68%로 높은 것을 확인할 수 있다.
+
+auto-labeled data만으로 구성된 dataset은 모두 human-labeled dataset보다는 mAP가 떨어진다. 
+
+이는 이번 연구에서 사용한 방법만으로 만든 auto-labeled dataset은 human-labeled dataset을 대체할 수 있는 수준은 아니라는 것을 알 수 있다. 
+
+그러나 이렇게 만든 auto-labeled dataset과 human-labeled dataset을 합친 unified dataset은 mAP가 증가하는 것을 확인할 수 있기에, 
+
+auto-labeled dataset은 기존 양이 부족한 human-labeled dataset을 보조하는 데에 유의미한 효과를 만들 수 있다는 것을 알 수 있다.
+
+Single camera의 단점을 보완한 multi-camera와 weight sensor의 경우 더 높은 인식률을 보이는 것을 확인할 수 있었으나 
+
+multi camera, weight sensor 모두 객관적인 program을 통한 측정이 아닌 실험자에 의한 측정이 이뤄졌기에 
+
+실험자의 주관이 들어갈 수 있다는 문제점이 아직 남아 있다.
+
+하지만 이번 실험 결과를 통해 single camera의 문제점인 사각지대, 물체의 미인식과 오인식 등에 
+
+두가지 방법 모두 인식률을 높이는 데에 유의미한 도움을 준다는 것을 알 수 있다.
+
 ## Overall View
 
 [졸업 프로젝트 포스터.pdf](https://github.com/peardanny97/GraduationProject/files/11148431/_.pdf)
