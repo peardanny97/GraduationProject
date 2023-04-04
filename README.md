@@ -22,3 +22,8 @@ Background subtraction
 Multi Camera
 
 Arduino & Weight Sensor
+
+
+## Overall View
+
+[졸업 프로젝트 포스터.pdf](https://github.com/peardanny97/GraduationProject/files/11148431/_.pdf)
