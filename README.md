@@ -13,11 +13,12 @@
 
 ## Auto-labeling
 
-더 빠르고 많은 data를 얻기 위해 컴퓨터 프로그램이 만든 image에 대하여 자동으로 bounding box를 만드는 auto-labeling 방식을 취함(오른쪽)
+더 빠르고 많은 data를 얻기 위해 컴퓨터 프로그램이 만든 image에 대하여 자동으로 bounding box를 만드는 auto-labeling 방식을 사용했다(오른쪽)
+
 ![image](https://user-images.githubusercontent.com/37990408/229814018-d83c1bf4-1f5f-4173-9b69-8033d73ec92c.png)
 
 ## Data augmentation
-무인 점포의 환경에 따라 다양하게 변하는 data에 대응하기 위하여 기존 data에 대하여 다양한 data augmentation을 적용하여 data의 다양성을 증가시킴
+무인 점포의 환경에 따라 다양하게 변하는 data에 대응하기 위하여 기존 data에 대하여 다양한 data augmentation을 적용하여 data의 다양성을 증가시켰다
 
 ![image](https://user-images.githubusercontent.com/37990408/229814644-1f24eb1e-a2c1-41ca-9981-13e5f7572002.png)
 
