@@ -1,0 +1,2854 @@
+net.optimized_memory = 0 
+mini_batch = 1, batch = 16, time_steps = 1, train = 0 
+Create CUDA-stream - 0 
+ Create cudnn-handle 0 
+
+ seen 64, trained: 4819 K-images (75 Kilo-batches_64) 
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10020.jpg: Predicted in 1304.632000 milli-seconds.
+dr_pepper: 67%
+cinnamon_toast_crunch: 39%
+cheeze_it: 85%
+bulls_eye_bbq_sauce_original: 25%
+haribo_gold_bears_gummi_candy: 92%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10072.jpg: Predicted in 10.949000 milli-seconds.
+martinellis_apple_juice: 73%
+dr_pepper: 49%
+tapatio_hot_sauce: 29%
+nabisco_nilla_wafers: 81%
+crayola_24_crayons: 100%
+chewy_dips_peanut_butter: 64%
+cheerios: 99%
+nature_vally_fruit_and_nut: 97%
+crystal_hot_sauce: 48%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10081.jpg: Predicted in 11.201000 milli-seconds.
+cheerios: 99%
+chewy_dips_peanut_butter: 30%
+chewy_dips_chocolate_chip: 45%
+nabisco_nilla_wafers: 75%
+nature_valley_crunchy_oats_n_honey: 32%
+nature_vally_fruit_and_nut: 26%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10006.jpg: Predicted in 10.887000 milli-seconds.
+honey_bunches_of_oats_honey_roasted: 91%
+mom_to_mom_sweet_potato_corn_apple: 28%
+pringles_bbq: 59%
+dr_pepper: 47%
+dr_pepper: 39%
+redbull: 77%
+listerine_green: 100%
+hersheys_symphony: 96%
+cheeze_it: 100%
+crayola_24_crayons: 99%
+honey_bunches_of_oats_with_almonds: 100%
+monster_energy: 28%
+hersheys_cocoa : 90%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10033.jpg: Predicted in 10.979000 milli-seconds.
+bulls_eye_bbq_sauce_original: 89%
+crayola_24_crayons: 80%
+haribo_gold_bears_gummi_candy: 100%
+dr_pepper: 98%
+crayola_24_crayons: 50%
+pop_tararts_strawberry: 96%
+nature_vally_fruit_and_nut: 61%
+martinellis_apple_juice: 49%
+reeses_pieces: 94%
+crayola_24_crayons: 34%
+quaker_big_chewy_chocolate_chip: 31%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10013.jpg: Predicted in 10.850000 milli-seconds.
+mom_to_mom_sweet_potato_corn_apple: 39%
+pringles_bbq: 100%
+dr_pepper: 32%
+hersheys_symphony: 36%
+listerine_green: 100%
+cheeze_it: 100%
+crayola_24_crayons: 98%
+white_rain_body_wash: 45%
+monster_energy: 55%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10110.jpg: Predicted in 10.705000 milli-seconds.
+chewy_dips_chocolate_chip: 25%
+bumblebee_albacore: 90%
+twix: 99%
+honey_bunches_of_oats_honey_roasted: 99%
+crayola_24_crayons: 99%
+listerine_green: 95%
+cholula_chipotle_hot_sauce: 95%
+hersheys_cocoa : 96%
+honey_bunches_of_oats_with_almonds: 99%
+coca_cola_glass_bottle: 63%
+aunt_jemima_original_syrup: 91%
+act_ii_butter_lovers_popcorn: 97%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10112.jpg: Predicted in 10.851000 milli-seconds.
+twix: 99%
+bumblebee_albacore: 94%
+honey_bunches_of_oats_honey_roasted: 99%
+crayola_24_crayons: 99%
+cholula_chipotle_hot_sauce: 94%
+listerine_green: 96%
+hersheys_cocoa : 95%
+honey_bunches_of_oats_with_almonds: 99%
+coca_cola_glass_bottle: 70%
+aunt_jemima_original_syrup: 90%
+act_ii_butter_lovers_popcorn: 97%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10098.jpg: Predicted in 11.338000 milli-seconds.
+act_ii_butter_lovers_popcorn: 46%
+hersheys_symphony: 89%
+bumblebee_albacore: 99%
+david_sunflower_seeds: 95%
+twix: 87%
+campbells_chunky_classic_chicken_noodle: 98%
+crayola_24_crayons: 99%
+martinellis_apple_juice: 51%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10051.jpg: Predicted in 11.162000 milli-seconds.
+crystal_hot_sauce: 45%
+dr_pepper: 57%
+chewy_dips_peanut_butter: 34%
+mom_to_mom_butternut_squash_pear: 49%
+quaker_big_chewy_chocolate_chip: 83%
+nature_valley_crunchy_oats_n_honey: 81%
+clif_z_bar_chocolate_chip: 74%
+ritz_crackers: 60%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10087.jpg: Predicted in 11.562000 milli-seconds.
+cheerios: 100%
+chewy_dips_peanut_butter: 94%
+nature_valley_crunchy_oats_n_honey: 39%
+frappuccino_coffee: 75%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10099.jpg: Predicted in 10.861000 milli-seconds.
+act_ii_butter_lovers_popcorn: 46%
+hersheys_symphony: 82%
+bumblebee_albacore: 98%
+david_sunflower_seeds: 92%
+twix: 83%
+campbells_chunky_classic_chicken_noodle: 99%
+crayola_24_crayons: 99%
+cholula_chipotle_hot_sauce: 97%
+monster_energy: 37%
+martinellis_apple_juice: 61%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10022.jpg: Predicted in 10.522000 milli-seconds.
+bulls_eye_bbq_sauce_original: 72%
+haribo_gold_bears_gummi_candy: 100%
+dr_pepper: 98%
+act_ii_butter_lovers_popcorn: 57%
+cheeze_it: 100%
+reeses_pieces: 100%
+cinnamon_toast_crunch: 68%
+crayola_24_crayons: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10068.jpg: Predicted in 10.775000 milli-seconds.
+nature_valley_crunchy_oats_n_honey: 89%
+martinellis_apple_juice: 85%
+dr_pepper: 65%
+clif_z_bar_chocolate_chip: 88%
+tapatio_hot_sauce: 31%
+nabisco_nilla_wafers: 80%
+crayola_24_crayons: 99%
+pepperidge_farm_milano_cookies_double_chocolate: 34%
+chewy_dips_peanut_butter: 95%
+nature_vally_fruit_and_nut: 96%
+crystal_hot_sauce: 32%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10019.jpg: Predicted in 10.693000 milli-seconds.
+bulls_eye_bbq_sauce_original: 49%
+pringles_bbq: 89%
+dr_pepper: 45%
+haribo_gold_bears_gummi_candy: 100%
+dr_pepper: 91%
+act_ii_butter_lovers_popcorn: 73%
+cheeze_it: 100%
+reeses_pieces: 96%
+crayola_24_crayons: 97%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10047.jpg: Predicted in 10.869000 milli-seconds.
+dr_pepper: 54%
+chewy_dips_peanut_butter: 35%
+mom_to_mom_butternut_squash_pear: 58%
+quaker_big_chewy_chocolate_chip: 82%
+clif_z_bar_chocolate_chip: 88%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10044.jpg: Predicted in 11.240000 milli-seconds.
+pepperidge_farm_milk_chocolate_macadamia_cookies: 40%
+honey_bunches_of_oats_honey_roasted: 36%
+reeses_pieces: 98%
+chewy_dips_chocolate_chip: 96%
+cinnamon_toast_crunch: 36%
+coffee_mate_french_vanilla: 96%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10001.jpg: Predicted in 10.817000 milli-seconds.
+cholula_chipotle_hot_sauce: 53%
+cheeze_it: 88%
+bumblebee_albacore: 65%
+pop_tararts_strawberry: 35%
+crayola_24_crayons: 29%
+honey_bunches_of_oats_honey_roasted: 78%
+hersheys_symphony: 63%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 50%
+honey_bunches_of_oats_with_almonds: 98%
+hunts_sauce: 42%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10051.jpg: Predicted in 10.981000 milli-seconds.
+act_ii_butter_lovers_popcorn: 29%
+nature_valley_crunchy_oats_n_honey: 73%
+act_ii_butter_lovers_popcorn: 40%
+clif_z_bar_chocolate_chip: 93%
+act_ii_butter_lovers_popcorn: 74%
+palmolive_orange: 52%
+crayola_24_crayons: 92%
+coffee_mate_french_vanilla: 82%
+chewy_dips_chocolate_chip: 26%
+quaker_big_chewy_chocolate_chip: 41%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 92%
+crystal_hot_sauce: 78%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10114.jpg: Predicted in 10.939000 milli-seconds.
+twix: 99%
+bumblebee_albacore: 97%
+honey_bunches_of_oats_honey_roasted: 98%
+crayola_24_crayons: 99%
+cholula_chipotle_hot_sauce: 93%
+listerine_green: 97%
+hersheys_cocoa : 98%
+honey_bunches_of_oats_with_almonds: 100%
+aunt_jemima_original_syrup: 86%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10109.jpg: Predicted in 11.457000 milli-seconds.
+cholula_chipotle_hot_sauce: 97%
+aunt_jemima_original_syrup: 65%
+twix: 91%
+act_ii_butter_lovers_popcorn: 98%
+david_sunflower_seeds: 80%
+band_aid_clear_strips: 78%
+pop_tararts_strawberry: 43%
+bumblebee_albacore: 35%
+coca_cola_glass_bottle: 51%
+crayola_24_crayons: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10039.jpg: Predicted in 11.068000 milli-seconds.
+dr_pepper: 30%
+haribo_gold_bears_gummi_candy: 37%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 36%
+honey_bunches_of_oats_honey_roasted: 39%
+haribo_gold_bears_gummi_candy: 54%
+reeses_pieces: 97%
+chewy_dips_chocolate_chip: 94%
+kitkat_king_size: 89%
+coffee_mate_french_vanilla: 96%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10098.jpg: Predicted in 11.291000 milli-seconds.
+hersheys_symphony: 93%
+campbells_chunky_classic_chicken_noodle: 53%
+coca_cola_glass_bottle: 78%
+david_sunflower_seeds: 97%
+twix: 83%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10000.jpg: Predicted in 10.933000 milli-seconds.
+band_aid_clear_strips: 33%
+cheeze_it: 79%
+bumblebee_albacore: 38%
+honey_bunches_of_oats_honey_roasted: 43%
+crayola_24_crayons: 77%
+monster_energy: 38%
+hersheys_symphony: 68%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 50%
+aunt_jemima_original_syrup: 28%
+listerine_green: 35%
+honey_bunches_of_oats_with_almonds: 95%
+hunts_sauce: 55%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10007.jpg: Predicted in 10.859000 milli-seconds.
+honey_bunches_of_oats_honey_roasted: 87%
+a1_steak_sauce: 50%
+pringles_bbq: 45%
+dr_pepper: 41%
+redbull: 58%
+listerine_green: 100%
+hersheys_symphony: 96%
+cheeze_it: 100%
+crayola_24_crayons: 99%
+honey_bunches_of_oats_with_almonds: 100%
+hersheys_cocoa : 93%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10113.jpg: Predicted in 11.012000 milli-seconds.
+campbells_chunky_classic_chicken_noodle: 29%
+twix: 99%
+bumblebee_albacore: 99%
+honey_bunches_of_oats_honey_roasted: 97%
+crayola_24_crayons: 100%
+listerine_green: 59%
+cholula_chipotle_hot_sauce: 96%
+hersheys_cocoa : 97%
+honey_bunches_of_oats_with_almonds: 39%
+coca_cola_glass_bottle: 64%
+aunt_jemima_original_syrup: 29%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10026.jpg: Predicted in 10.849000 milli-seconds.
+bulls_eye_bbq_sauce_original: 75%
+haribo_gold_bears_gummi_candy: 100%
+dr_pepper: 99%
+redbull: 25%
+nature_vally_fruit_and_nut: 39%
+martinellis_apple_juice: 30%
+reeses_pieces: 99%
+crayola_24_crayons: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10111.jpg: Predicted in 10.964000 milli-seconds.
+aunt_jemima_original_syrup: 34%
+act_ii_butter_lovers_popcorn: 99%
+david_sunflower_seeds: 33%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10063.jpg: Predicted in 10.837000 milli-seconds.
+nature_valley_crunchy_oats_n_honey: 94%
+dr_pepper: 48%
+martinellis_apple_juice: 52%
+clif_z_bar_chocolate_chip: 75%
+tapatio_hot_sauce: 87%
+chewy_dips_chocolate_chip: 36%
+nabisco_nilla_wafers: 66%
+palmolive_orange: 77%
+pepperidge_farm_milano_cookies_double_chocolate: 50%
+crayola_24_crayons: 86%
+frappuccino_coffee: 51%
+crystal_hot_sauce: 79%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10040.jpg: Predicted in 10.875000 milli-seconds.
+haribo_gold_bears_gummi_candy: 29%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 29%
+honey_bunches_of_oats_honey_roasted: 42%
+haribo_gold_bears_gummi_candy: 39%
+reeses_pieces: 96%
+chewy_dips_chocolate_chip: 94%
+coffee_mate_french_vanilla: 96%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10101.jpg: Predicted in 11.279000 milli-seconds.
+martinellis_apple_juice: 79%
+aunt_jemima_original_syrup: 29%
+twix: 64%
+act_ii_butter_lovers_popcorn: 89%
+dove_white: 27%
+campbells_chunky_classic_chicken_noodle: 46%
+hersheys_symphony: 92%
+david_sunflower_seeds: 71%
+band_aid_clear_strips: 26%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10084.jpg: Predicted in 10.671000 milli-seconds.
+hersheys_symphony: 57%
+campbells_chunky_classic_chicken_noodle: 98%
+crayola_24_crayons: 99%
+chewy_dips_peanut_butter: 91%
+frappuccino_coffee: 65%
+martinellis_apple_juice: 35%
+cheerios: 98%
+nature_vally_fruit_and_nut: 92%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10086.jpg: Predicted in 11.259000 milli-seconds.
+cheerios: 99%
+chewy_dips_peanut_butter: 95%
+pepperidge_farm_milano_cookies_double_chocolate: 79%
+nature_vally_fruit_and_nut: 26%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10076.jpg: Predicted in 10.856000 milli-seconds.
+hersheys_symphony: 61%
+dr_pepper: 94%
+tapatio_hot_sauce: 41%
+nabisco_nilla_wafers: 83%
+crayola_24_crayons: 100%
+chewy_dips_peanut_butter: 44%
+frappuccino_coffee: 44%
+cheerios: 98%
+nature_vally_fruit_and_nut: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10016.jpg: Predicted in 10.839000 milli-seconds.
+pringles_bbq: 97%
+dr_pepper: 47%
+redbull: 96%
+dr_pepper: 100%
+hersheys_symphony: 92%
+cheeze_it: 100%
+crayola_24_crayons: 100%
+hersheys_bar: 71%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10065.jpg: Predicted in 10.881000 milli-seconds.
+nature_valley_crunchy_oats_n_honey: 76%
+martinellis_apple_juice: 65%
+clif_z_bar_chocolate_chip: 77%
+tapatio_hot_sauce: 78%
+chewy_dips_chocolate_chip: 35%
+nabisco_nilla_wafers: 67%
+palmolive_orange: 84%
+pepperidge_farm_milano_cookies_double_chocolate: 47%
+crayola_24_crayons: 86%
+frappuccino_coffee: 40%
+crystal_hot_sauce: 77%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10058.jpg: Predicted in 11.267000 milli-seconds.
+nature_valley_crunchy_oats_n_honey: 50%
+martinellis_apple_juice: 51%
+dr_pepper: 50%
+clif_z_bar_chocolate_chip: 74%
+tapatio_hot_sauce: 83%
+chewy_dips_chocolate_chip: 28%
+nabisco_nilla_wafers: 66%
+palmolive_orange: 73%
+pepperidge_farm_milano_cookies_double_chocolate: 40%
+crayola_24_crayons: 100%
+coffee_mate_french_vanilla: 71%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 91%
+crystal_hot_sauce: 94%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10033.jpg: Predicted in 11.233000 milli-seconds.
+dr_pepper: 60%
+dr_pepper: 88%
+haribo_gold_bears_gummi_candy: 48%
+reeses_pieces: 51%
+pop_tararts_strawberry: 30%
+quaker_big_chewy_chocolate_chip: 42%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10107.jpg: Predicted in 11.195000 milli-seconds.
+bumblebee_albacore: 89%
+twix: 99%
+honey_bunches_of_oats_honey_roasted: 98%
+crayola_24_crayons: 99%
+cholula_chipotle_hot_sauce: 88%
+hersheys_cocoa : 79%
+coca_cola_glass_bottle: 33%
+aunt_jemima_original_syrup: 94%
+act_ii_butter_lovers_popcorn: 95%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10027.jpg: Predicted in 10.880000 milli-seconds.
+bulls_eye_bbq_sauce_original: 74%
+haribo_gold_bears_gummi_candy: 100%
+dr_pepper: 99%
+redbull: 39%
+pop_tararts_strawberry: 93%
+nature_vally_fruit_and_nut: 40%
+martinellis_apple_juice: 50%
+reeses_pieces: 99%
+crayola_24_crayons: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10104.jpg: Predicted in 11.160000 milli-seconds.
+act_ii_butter_lovers_popcorn: 93%
+band_aid_clear_strips: 71%
+aunt_jemima_original_syrup: 52%
+bumblebee_albacore: 99%
+monster_energy: 34%
+twix: 98%
+cholula_chipotle_hot_sauce: 94%
+crayola_24_crayons: 100%
+david_sunflower_seeds: 71%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10038.jpg: Predicted in 10.804000 milli-seconds.
+snickers: 80%
+bulls_eye_bbq_sauce_original: 91%
+kitkat_king_size: 38%
+crayola_24_crayons: 25%
+haribo_gold_bears_gummi_candy: 100%
+dr_pepper: 99%
+pop_tararts_strawberry: 100%
+mom_to_mom_butternut_squash_pear: 88%
+reeses_pieces: 98%
+clif_crunch_peanut_butter: 29%
+cheerios: 82%
+crayola_24_crayons: 86%
+bumblebee_albacore: 40%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 70%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10032.jpg: Predicted in 10.855000 milli-seconds.
+dr_pepper: 52%
+dr_pepper: 89%
+haribo_gold_bears_gummi_candy: 28%
+reeses_pieces: 55%
+pop_tararts_strawberry: 25%
+quaker_big_chewy_chocolate_chip: 36%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10019.jpg: Predicted in 11.673000 milli-seconds.
+dr_pepper: 59%
+cinnamon_toast_crunch: 38%
+cheeze_it: 83%
+haribo_gold_bears_gummi_candy: 92%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10011.jpg: Predicted in 10.852000 milli-seconds.
+mom_to_mom_sweet_potato_corn_apple: 58%
+pringles_bbq: 91%
+dr_pepper: 71%
+redbull: 30%
+hersheys_symphony: 50%
+listerine_green: 100%
+cheeze_it: 100%
+crayola_24_crayons: 97%
+monster_energy: 48%
+honey_bunches_of_oats_with_almonds: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10002.jpg: Predicted in 11.218000 milli-seconds.
+cholula_chipotle_hot_sauce: 99%
+cheeze_it: 90%
+pop_tararts_strawberry: 75%
+crayola_24_crayons: 52%
+honey_bunches_of_oats_honey_roasted: 71%
+hersheys_symphony: 70%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 41%
+honey_bunches_of_oats_with_almonds: 97%
+hunts_sauce: 48%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10070.jpg: Predicted in 10.849000 milli-seconds.
+nabisco_nilla_wafers: 92%
+nature_valley_crunchy_oats_n_honey: 30%
+ritz_crackers: 39%
+chewy_dips_chocolate_chip: 95%
+nature_vally_fruit_and_nut: 85%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10012.jpg: Predicted in 10.975000 milli-seconds.
+cheeze_it: 88%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 27%
+pringles_bbq: 63%
+honey_bunches_of_oats_with_almonds: 99%
+white_rain_body_wash: 52%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10074.jpg: Predicted in 11.241000 milli-seconds.
+dr_pepper: 96%
+tapatio_hot_sauce: 42%
+nabisco_nilla_wafers: 68%
+crayola_24_crayons: 100%
+chewy_dips_peanut_butter: 62%
+cheerios: 99%
+nature_vally_fruit_and_nut: 98%
+crystal_hot_sauce: 41%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10044.jpg: Predicted in 10.846000 milli-seconds.
+kitkat_king_size: 85%
+spam: 74%
+dr_pepper: 49%
+twix: 41%
+act_ii_butter_lovers_popcorn: 99%
+martinellis_apple_juice: 35%
+mom_to_mom_butternut_squash_pear: 33%
+chewy_dips_peanut_butter: 37%
+cheerios: 25%
+crayola_24_crayons: 99%
+cinnamon_toast_crunch: 75%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10082.jpg: Predicted in 10.826000 milli-seconds.
+hersheys_symphony: 57%
+campbells_chunky_classic_chicken_noodle: 88%
+martinellis_apple_juice: 34%
+crystal_hot_sauce: 32%
+crayola_24_crayons: 99%
+pepperidge_farm_milano_cookies_double_chocolate: 89%
+chewy_dips_peanut_butter: 81%
+frappuccino_coffee: 63%
+cheerios: 98%
+martinellis_apple_juice: 35%
+nature_vally_fruit_and_nut: 92%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10114.jpg: Predicted in 10.934000 milli-seconds.
+aunt_jemima_original_syrup: 54%
+act_ii_butter_lovers_popcorn: 76%
+honey_bunches_of_oats_honey_roasted: 36%
+david_sunflower_seeds: 38%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10099.jpg: Predicted in 11.233000 milli-seconds.
+hersheys_symphony: 95%
+campbells_chunky_classic_chicken_noodle: 87%
+coca_cola_glass_bottle: 85%
+david_sunflower_seeds: 93%
+twix: 87%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10037.jpg: Predicted in 10.673000 milli-seconds.
+dr_pepper: 36%
+haribo_gold_bears_gummi_candy: 34%
+honey_bunches_of_oats_honey_roasted: 77%
+haribo_gold_bears_gummi_candy: 42%
+pop_tararts_strawberry: 27%
+reeses_pieces: 98%
+chewy_dips_chocolate_chip: 94%
+coffee_mate_french_vanilla: 96%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10010.jpg: Predicted in 10.927000 milli-seconds.
+honey_bunches_of_oats_honey_roasted: 85%
+dr_pepper: 35%
+hersheys_symphony: 41%
+listerine_green: 100%
+cheeze_it: 100%
+crayola_24_crayons: 98%
+monster_energy: 47%
+honey_bunches_of_oats_with_almonds: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10085.jpg: Predicted in 10.800000 milli-seconds.
+hersheys_symphony: 64%
+campbells_chunky_classic_chicken_noodle: 98%
+crayola_24_crayons: 100%
+chewy_dips_peanut_butter: 90%
+cheerios: 99%
+martinellis_apple_juice: 72%
+nature_vally_fruit_and_nut: 92%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10109.jpg: Predicted in 10.817000 milli-seconds.
+bumblebee_albacore: 93%
+twix: 99%
+honey_bunches_of_oats_honey_roasted: 99%
+crayola_24_crayons: 99%
+cholula_chipotle_hot_sauce: 94%
+hersheys_cocoa : 93%
+honey_bunches_of_oats_with_almonds: 100%
+coca_cola_glass_bottle: 65%
+aunt_jemima_original_syrup: 92%
+act_ii_butter_lovers_popcorn: 97%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10012.jpg: Predicted in 11.510000 milli-seconds.
+mom_to_mom_sweet_potato_corn_apple: 30%
+pringles_bbq: 92%
+dr_pepper: 75%
+hersheys_symphony: 46%
+listerine_green: 100%
+cheeze_it: 100%
+crayola_24_crayons: 97%
+monster_energy: 33%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10117.jpg: Predicted in 11.040000 milli-seconds.
+listerine_green: 50%
+act_ii_butter_lovers_popcorn: 80%
+honey_bunches_of_oats_honey_roasted: 44%
+bumblebee_albacore: 70%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10090.jpg: Predicted in 10.911000 milli-seconds.
+act_ii_butter_lovers_popcorn: 93%
+cheerios: 100%
+hersheys_symphony: 93%
+chewy_dips_chocolate_chip: 67%
+david_sunflower_seeds: 94%
+twix: 84%
+campbells_chunky_classic_chicken_noodle: 99%
+crayola_24_crayons: 99%
+chewy_dips_peanut_butter: 97%
+nature_vally_fruit_and_nut: 94%
+martinellis_apple_juice: 86%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10004.jpg: Predicted in 11.274000 milli-seconds.
+honey_bunches_of_oats_honey_roasted: 93%
+dr_pepper: 56%
+pringles_bbq: 55%
+dr_pepper: 74%
+listerine_green: 100%
+hersheys_symphony: 98%
+cheeze_it: 100%
+crayola_24_crayons: 99%
+honey_bunches_of_oats_with_almonds: 100%
+hersheys_cocoa : 93%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10090.jpg: Predicted in 11.202000 milli-seconds.
+cheerios: 99%
+martinellis_apple_juice: 95%
+hersheys_symphony: 96%
+chewy_dips_peanut_butter: 42%
+campbells_chunky_classic_chicken_noodle: 77%
+chewy_dips_chocolate_chip: 36%
+david_sunflower_seeds: 96%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10083.jpg: Predicted in 10.958000 milli-seconds.
+hersheys_symphony: 59%
+campbells_chunky_classic_chicken_noodle: 89%
+martinellis_apple_juice: 29%
+crayola_24_crayons: 99%
+chewy_dips_peanut_butter: 88%
+frappuccino_coffee: 57%
+cheerios: 98%
+martinellis_apple_juice: 46%
+nature_vally_fruit_and_nut: 94%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10082.jpg: Predicted in 11.178000 milli-seconds.
+cheerios: 99%
+chewy_dips_peanut_butter: 44%
+tapatio_hot_sauce: 26%
+chewy_dips_chocolate_chip: 34%
+nabisco_nilla_wafers: 84%
+nature_valley_crunchy_oats_n_honey: 28%
+nature_vally_fruit_and_nut: 34%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10015.jpg: Predicted in 10.871000 milli-seconds.
+cheeze_it: 89%
+pringles_bbq: 100%
+white_rain_body_wash: 30%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10094.jpg: Predicted in 11.507000 milli-seconds.
+act_ii_butter_lovers_popcorn: 86%
+hersheys_symphony: 87%
+david_sunflower_seeds: 95%
+twix: 87%
+campbells_chunky_classic_chicken_noodle: 99%
+crayola_24_crayons: 99%
+martinellis_apple_juice: 55%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10076.jpg: Predicted in 11.247000 milli-seconds.
+cheerios: 96%
+nabisco_nilla_wafers: 97%
+frappuccino_coffee: 77%
+chewy_dips_chocolate_chip: 95%
+nature_vally_fruit_and_nut: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10029.jpg: Predicted in 10.821000 milli-seconds.
+dr_pepper: 90%
+reeses_pieces: 43%
+pop_tararts_strawberry: 40%
+quaker_big_chewy_chocolate_chip: 32%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10053.jpg: Predicted in 11.263000 milli-seconds.
+act_ii_butter_lovers_popcorn: 26%
+nature_valley_crunchy_oats_n_honey: 75%
+act_ii_butter_lovers_popcorn: 46%
+clif_z_bar_chocolate_chip: 69%
+palmolive_orange: 62%
+crayola_24_crayons: 100%
+coffee_mate_french_vanilla: 82%
+chewy_dips_chocolate_chip: 47%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 91%
+crystal_hot_sauce: 91%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10053.jpg: Predicted in 10.843000 milli-seconds.
+crystal_hot_sauce: 29%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 47%
+pop_tararts_strawberry: 64%
+quaker_big_chewy_chocolate_chip: 66%
+cinnamon_toast_crunch: 28%
+nature_valley_crunchy_oats_n_honey: 70%
+clif_z_bar_chocolate_chip: 49%
+nature_valley_crunchy_oats_n_honey: 37%
+ritz_crackers: 71%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10008.jpg: Predicted in 10.829000 milli-seconds.
+hersheys_symphony: 27%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 69%
+cheeze_it: 85%
+honey_bunches_of_oats_honey_roasted: 70%
+honey_bunches_of_oats_with_almonds: 83%
+white_rain_body_wash: 41%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10028.jpg: Predicted in 11.249000 milli-seconds.
+bulls_eye_bbq_sauce_original: 71%
+haribo_gold_bears_gummi_candy: 100%
+dr_pepper: 99%
+redbull: 32%
+pop_tararts_strawberry: 97%
+crayola_24_crayons: 44%
+nature_vally_fruit_and_nut: 52%
+martinellis_apple_juice: 28%
+reeses_pieces: 95%
+crayola_24_crayons: 35%
+quaker_big_chewy_chocolate_chip: 27%
+chewy_dips_chocolate_chip: 32%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10107.jpg: Predicted in 11.498000 milli-seconds.
+cholula_chipotle_hot_sauce: 51%
+aunt_jemima_original_syrup: 62%
+twix: 66%
+act_ii_butter_lovers_popcorn: 99%
+david_sunflower_seeds: 86%
+band_aid_clear_strips: 70%
+pop_tararts_strawberry: 54%
+bumblebee_albacore: 36%
+coca_cola_glass_bottle: 40%
+crayola_24_crayons: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10104.jpg: Predicted in 11.217000 milli-seconds.
+cholula_chipotle_hot_sauce: 48%
+aunt_jemima_original_syrup: 44%
+twix: 75%
+act_ii_butter_lovers_popcorn: 87%
+campbells_chunky_classic_chicken_noodle: 36%
+hersheys_symphony: 90%
+david_sunflower_seeds: 80%
+coca_cola_glass_bottle: 30%
+crayola_24_crayons: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10021.jpg: Predicted in 10.860000 milli-seconds.
+bulls_eye_bbq_sauce_original: 50%
+pringles_bbq: 87%
+dr_pepper: 34%
+haribo_gold_bears_gummi_candy: 100%
+dr_pepper: 94%
+act_ii_butter_lovers_popcorn: 46%
+redbull: 30%
+cheeze_it: 100%
+reeses_pieces: 100%
+cinnamon_toast_crunch: 55%
+crayola_24_crayons: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10095.jpg: Predicted in 11.250000 milli-seconds.
+act_ii_butter_lovers_popcorn: 28%
+cheerios: 100%
+martinellis_apple_juice: 26%
+hersheys_symphony: 94%
+chewy_dips_peanut_butter: 37%
+campbells_chunky_classic_chicken_noodle: 71%
+nature_vally_fruit_and_nut: 97%
+coca_cola_glass_bottle: 75%
+david_sunflower_seeds: 95%
+twix: 78%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10003.jpg: Predicted in 11.181000 milli-seconds.
+honey_bunches_of_oats_honey_roasted: 94%
+dr_pepper: 57%
+pringles_bbq: 57%
+cholula_chipotle_hot_sauce: 98%
+listerine_green: 100%
+hersheys_symphony: 97%
+cheeze_it: 100%
+crayola_24_crayons: 99%
+honey_bunches_of_oats_with_almonds: 100%
+hersheys_cocoa : 88%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10014.jpg: Predicted in 10.848000 milli-seconds.
+cheeze_it: 93%
+pringles_bbq: 100%
+white_rain_body_wash: 41%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10071.jpg: Predicted in 11.038000 milli-seconds.
+nature_valley_crunchy_oats_n_honey: 28%
+martinellis_apple_juice: 67%
+dr_pepper: 56%
+tapatio_hot_sauce: 34%
+nabisco_nilla_wafers: 72%
+crayola_24_crayons: 100%
+chewy_dips_peanut_butter: 55%
+cheerios: 99%
+nature_vally_fruit_and_nut: 97%
+crystal_hot_sauce: 38%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10057.jpg: Predicted in 11.219000 milli-seconds.
+act_ii_butter_lovers_popcorn: 73%
+nature_valley_crunchy_oats_n_honey: 62%
+clif_z_bar_chocolate_chip: 81%
+tapatio_hot_sauce: 93%
+chewy_dips_chocolate_chip: 34%
+nabisco_nilla_wafers: 65%
+palmolive_orange: 74%
+pepperidge_farm_milano_cookies_double_chocolate: 64%
+crayola_24_crayons: 100%
+coffee_mate_french_vanilla: 76%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 92%
+crystal_hot_sauce: 93%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10120.jpg: Predicted in 10.914000 milli-seconds.
+hersheys_cocoa : 56%
+listerine_green: 67%
+cholula_chipotle_hot_sauce: 34%
+twix: 41%
+band_aid_clear_strips: 30%
+crayola_24_crayons: 38%
+honey_bunches_of_oats_honey_roasted: 42%
+bumblebee_albacore: 82%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10066.jpg: Predicted in 11.467000 milli-seconds.
+nabisco_nilla_wafers: 46%
+clif_z_bar_chocolate_chip: 91%
+campbells_chunky_classic_chicken_noodle: 44%
+nature_valley_crunchy_oats_n_honey: 79%
+ritz_crackers: 99%
+frappuccino_coffee: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10023.jpg: Predicted in 10.815000 milli-seconds.
+dr_pepper: 71%
+cinnamon_toast_crunch: 49%
+hersheys_bar: 39%
+cheeze_it: 97%
+a1_steak_sauce: 35%
+bulls_eye_bbq_sauce_original: 74%
+haribo_gold_bears_gummi_candy: 94%
+crayola_24_crayons: 41%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10119.jpg: Predicted in 10.479000 milli-seconds.
+hersheys_cocoa : 75%
+listerine_green: 63%
+honey_bunches_of_oats_honey_roasted: 40%
+bumblebee_albacore: 67%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10112.jpg: Predicted in 10.929000 milli-seconds.
+aunt_jemima_original_syrup: 60%
+act_ii_butter_lovers_popcorn: 83%
+honey_bunches_of_oats_honey_roasted: 78%
+david_sunflower_seeds: 59%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10075.jpg: Predicted in 11.501000 milli-seconds.
+dr_pepper: 96%
+tapatio_hot_sauce: 43%
+nabisco_nilla_wafers: 84%
+crayola_24_crayons: 100%
+chewy_dips_peanut_butter: 52%
+frappuccino_coffee: 42%
+cheerios: 98%
+nature_vally_fruit_and_nut: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10054.jpg: Predicted in 10.847000 milli-seconds.
+act_ii_butter_lovers_popcorn: 72%
+nature_valley_crunchy_oats_n_honey: 67%
+clif_z_bar_chocolate_chip: 98%
+palmolive_orange: 41%
+crayola_24_crayons: 100%
+coffee_mate_french_vanilla: 90%
+chewy_dips_chocolate_chip: 28%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 91%
+crystal_hot_sauce: 89%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10055.jpg: Predicted in 10.916000 milli-seconds.
+act_ii_butter_lovers_popcorn: 60%
+nature_valley_crunchy_oats_n_honey: 60%
+clif_z_bar_chocolate_chip: 90%
+tapatio_hot_sauce: 89%
+palmolive_orange: 61%
+crayola_24_crayons: 100%
+coffee_mate_french_vanilla: 79%
+chewy_dips_chocolate_chip: 32%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 84%
+crystal_hot_sauce: 84%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10063.jpg: Predicted in 10.812000 milli-seconds.
+nabisco_nilla_wafers: 43%
+clif_z_bar_chocolate_chip: 94%
+campbells_chunky_classic_chicken_noodle: 56%
+crayola_24_crayons: 43%
+nature_valley_crunchy_oats_n_honey: 90%
+snickers: 36%
+cheerios: 69%
+crayola_24_crayons: 29%
+ritz_crackers: 100%
+frappuccino_coffee: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10046.jpg: Predicted in 11.428000 milli-seconds.
+pepperidge_farm_milk_chocolate_macadamia_cookies: 32%
+clif_crunch_peanut_butter: 81%
+crayola_24_crayons: 61%
+pop_tararts_strawberry: 84%
+mom_to_mom_butternut_squash_pear: 67%
+chewy_dips_chocolate_chip: 98%
+coffee_mate_french_vanilla: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10018.jpg: Predicted in 10.996000 milli-seconds.
+bulls_eye_bbq_sauce_original: 48%
+pringles_bbq: 87%
+dr_pepper: 49%
+haribo_gold_bears_gummi_candy: 100%
+dr_pepper: 93%
+act_ii_butter_lovers_popcorn: 45%
+mahatma_rice: 47%
+hersheys_symphony: 55%
+cheeze_it: 100%
+crayola_24_crayons: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10070.jpg: Predicted in 11.246000 milli-seconds.
+dr_pepper: 58%
+martinellis_apple_juice: 55%
+clif_z_bar_chocolate_chip: 86%
+nabisco_nilla_wafers: 63%
+crayola_24_crayons: 100%
+chewy_dips_peanut_butter: 41%
+cheerios: 98%
+nature_vally_fruit_and_nut: 96%
+crystal_hot_sauce: 53%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10017.jpg: Predicted in 11.089000 milli-seconds.
+dr_pepper: 54%
+cinnamon_toast_crunch: 36%
+cheeze_it: 87%
+pringles_bbq: 91%
+mom_to_mom_sweet_potato_corn_apple: 83%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10100.jpg: Predicted in 11.237000 milli-seconds.
+act_ii_butter_lovers_popcorn: 70%
+hersheys_symphony: 90%
+bumblebee_albacore: 99%
+david_sunflower_seeds: 97%
+twix: 84%
+campbells_chunky_classic_chicken_noodle: 99%
+crayola_24_crayons: 99%
+cholula_chipotle_hot_sauce: 94%
+monster_energy: 41%
+crayola_24_crayons: 32%
+martinellis_apple_juice: 63%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10057.jpg: Predicted in 10.937000 milli-seconds.
+tapatio_hot_sauce: 48%
+clif_z_bar_chocolate_chip: 93%
+campbells_chunky_classic_chicken_noodle: 57%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 89%
+pepperidge_farm_milano_cookies_double_chocolate: 56%
+crayola_24_crayons: 57%
+nature_valley_crunchy_oats_n_honey: 66%
+snickers: 25%
+ritz_crackers: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10073.jpg: Predicted in 10.838000 milli-seconds.
+chewy_dips_chocolate_chip: 27%
+dr_pepper: 97%
+tapatio_hot_sauce: 33%
+nabisco_nilla_wafers: 76%
+crayola_24_crayons: 100%
+pepperidge_farm_milano_cookies_double_chocolate: 27%
+chewy_dips_peanut_butter: 59%
+cheerios: 99%
+nature_vally_fruit_and_nut: 98%
+crystal_hot_sauce: 43%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10069.jpg: Predicted in 10.941000 milli-seconds.
+nature_valley_crunchy_oats_n_honey: 78%
+martinellis_apple_juice: 62%
+dr_pepper: 44%
+clif_z_bar_chocolate_chip: 79%
+tapatio_hot_sauce: 27%
+nabisco_nilla_wafers: 55%
+crayola_24_crayons: 100%
+chewy_dips_peanut_butter: 52%
+cheerios: 99%
+nature_vally_fruit_and_nut: 97%
+crystal_hot_sauce: 57%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10067.jpg: Predicted in 10.888000 milli-seconds.
+nature_valley_crunchy_oats_n_honey: 93%
+martinellis_apple_juice: 69%
+dr_pepper: 45%
+clif_z_bar_chocolate_chip: 71%
+tapatio_hot_sauce: 92%
+nabisco_nilla_wafers: 78%
+palmolive_orange: 72%
+chewy_dips_peanut_butter: 95%
+crayola_24_crayons: 92%
+frappuccino_coffee: 72%
+crystal_hot_sauce: 83%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10088.jpg: Predicted in 11.562000 milli-seconds.
+cheerios: 100%
+chewy_dips_peanut_butter: 96%
+nature_valley_crunchy_oats_n_honey: 32%
+frappuccino_coffee: 86%
+campbells_chunky_classic_chicken_noodle: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10067.jpg: Predicted in 11.460000 milli-seconds.
+nabisco_nilla_wafers: 91%
+ritz_crackers: 89%
+chewy_dips_chocolate_chip: 62%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10061.jpg: Predicted in 11.500000 milli-seconds.
+nature_valley_crunchy_oats_n_honey: 48%
+martinellis_apple_juice: 51%
+dr_pepper: 37%
+clif_z_bar_chocolate_chip: 80%
+tapatio_hot_sauce: 88%
+chewy_dips_chocolate_chip: 37%
+nabisco_nilla_wafers: 58%
+palmolive_orange: 78%
+pepperidge_farm_milano_cookies_double_chocolate: 53%
+crayola_24_crayons: 86%
+frappuccino_coffee: 48%
+crystal_hot_sauce: 82%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10059.jpg: Predicted in 11.517000 milli-seconds.
+nabisco_nilla_wafers: 30%
+clif_z_bar_chocolate_chip: 53%
+campbells_chunky_classic_chicken_noodle: 79%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 86%
+pepperidge_farm_milano_cookies_double_chocolate: 41%
+nature_valley_crunchy_oats_n_honey: 56%
+crayola_24_crayons: 59%
+snickers: 38%
+ritz_crackers: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10007.jpg: Predicted in 11.376000 milli-seconds.
+pepperidge_farm_milk_chocolate_macadamia_cookies: 64%
+cheeze_it: 78%
+honey_bunches_of_oats_honey_roasted: 72%
+honey_bunches_of_oats_with_almonds: 86%
+white_rain_body_wash: 52%
+twix: 26%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10103.jpg: Predicted in 11.472000 milli-seconds.
+act_ii_butter_lovers_popcorn: 93%
+band_aid_clear_strips: 72%
+aunt_jemima_original_syrup: 59%
+bumblebee_albacore: 99%
+monster_energy: 33%
+twix: 98%
+cholula_chipotle_hot_sauce: 93%
+crayola_24_crayons: 100%
+david_sunflower_seeds: 80%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10017.jpg: Predicted in 11.191000 milli-seconds.
+pringles_bbq: 94%
+dr_pepper: 30%
+haribo_gold_bears_gummi_candy: 100%
+dr_pepper: 94%
+act_ii_butter_lovers_popcorn: 50%
+redbull: 29%
+mahatma_rice: 39%
+hersheys_symphony: 73%
+cheeze_it: 100%
+crayola_24_crayons: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10097.jpg: Predicted in 10.991000 milli-seconds.
+act_ii_butter_lovers_popcorn: 63%
+hersheys_symphony: 88%
+david_sunflower_seeds: 89%
+twix: 88%
+campbells_chunky_classic_chicken_noodle: 98%
+crayola_24_crayons: 99%
+monster_energy: 27%
+martinellis_apple_juice: 56%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10005.jpg: Predicted in 10.895000 milli-seconds.
+cheeze_it: 86%
+honey_bunches_of_oats_honey_roasted: 79%
+pringles_bbq: 33%
+monster_energy: 45%
+hersheys_symphony: 66%
+honey_bunches_of_oats_with_almonds: 98%
+hunts_sauce: 38%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10000.jpg: Predicted in 11.214000 milli-seconds.
+honey_bunches_of_oats_honey_roasted: 83%
+bumblebee_albacore: 93%
+pringles_bbq: 43%
+bulls_eye_bbq_sauce_original: 33%
+cholula_chipotle_hot_sauce: 80%
+listerine_green: 100%
+hersheys_symphony: 94%
+cheeze_it: 100%
+crayola_24_crayons: 99%
+honey_bunches_of_oats_with_almonds: 99%
+hersheys_cocoa : 94%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10015.jpg: Predicted in 10.475000 milli-seconds.
+mom_to_mom_sweet_potato_corn_apple: 86%
+pringles_bbq: 100%
+dr_pepper: 26%
+redbull: 86%
+hersheys_symphony: 92%
+cheeze_it: 100%
+crayola_24_crayons: 100%
+hersheys_bar: 51%
+honey_bunches_of_oats_with_almonds: 25%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10040.jpg: Predicted in 10.964000 milli-seconds.
+bulls_eye_bbq_sauce_original: 85%
+haribo_gold_bears_gummi_candy: 96%
+dr_pepper: 96%
+martinellis_apple_juice: 56%
+act_ii_butter_lovers_popcorn: 100%
+reeses_pieces: 89%
+crayola_24_crayons: 99%
+cinnamon_toast_crunch: 78%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10061.jpg: Predicted in 11.023000 milli-seconds.
+clif_z_bar_chocolate_chip: 56%
+campbells_chunky_classic_chicken_noodle: 67%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 87%
+nature_valley_crunchy_oats_n_honey: 54%
+crayola_24_crayons: 53%
+ritz_crackers: 100%
+frappuccino_coffee: 93%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10016.jpg: Predicted in 10.654000 milli-seconds.
+act_ii_butter_lovers_popcorn: 26%
+cinnamon_toast_crunch: 42%
+cinnamon_toast_crunch: 31%
+cheeze_it: 93%
+pringles_bbq: 92%
+mom_to_mom_sweet_potato_corn_apple: 86%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10041.jpg: Predicted in 11.275000 milli-seconds.
+cholula_chipotle_hot_sauce: 27%
+bulls_eye_bbq_sauce_original: 43%
+haribo_gold_bears_gummi_candy: 96%
+twix: 37%
+martinellis_apple_juice: 48%
+act_ii_butter_lovers_popcorn: 100%
+reeses_pieces: 88%
+chewy_dips_peanut_butter: 37%
+cheerios: 30%
+crayola_24_crayons: 99%
+cinnamon_toast_crunch: 79%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10050.jpg: Predicted in 10.856000 milli-seconds.
+act_ii_butter_lovers_popcorn: 31%
+nature_valley_crunchy_oats_n_honey: 83%
+act_ii_butter_lovers_popcorn: 42%
+clif_z_bar_chocolate_chip: 90%
+dr_pepper: 38%
+mom_to_mom_butternut_squash_pear: 37%
+act_ii_butter_lovers_popcorn: 81%
+palmolive_orange: 27%
+crayola_24_crayons: 88%
+coffee_mate_french_vanilla: 88%
+quaker_big_chewy_chocolate_chip: 33%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 90%
+crystal_hot_sauce: 73%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10046.jpg: Predicted in 11.214000 milli-seconds.
+nature_valley_crunchy_oats_n_honey: 91%
+spam: 63%
+clif_z_bar_chocolate_chip: 99%
+twix: 47%
+pop_tararts_strawberry: 34%
+mom_to_mom_butternut_squash_pear: 37%
+martinellis_apple_juice: 45%
+dr_pepper: 31%
+act_ii_butter_lovers_popcorn: 98%
+chewy_dips_peanut_butter: 25%
+crayola_24_crayons: 100%
+cinnamon_toast_crunch: 80%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10075.jpg: Predicted in 10.929000 milli-seconds.
+cheerios: 92%
+nabisco_nilla_wafers: 93%
+chewy_dips_chocolate_chip: 95%
+nature_vally_fruit_and_nut: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10103.jpg: Predicted in 10.826000 milli-seconds.
+cholula_chipotle_hot_sauce: 48%
+campbells_chunky_classic_chicken_noodle: 30%
+aunt_jemima_original_syrup: 53%
+twix: 74%
+act_ii_butter_lovers_popcorn: 88%
+campbells_chunky_classic_chicken_noodle: 40%
+hersheys_symphony: 91%
+david_sunflower_seeds: 57%
+bumblebee_albacore: 37%
+coca_cola_glass_bottle: 31%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10010.jpg: Predicted in 10.842000 milli-seconds.
+pepperidge_farm_milk_chocolate_macadamia_cookies: 68%
+honey_bunches_of_oats_honey_roasted: 40%
+honey_bunches_of_oats_with_almonds: 86%
+white_rain_body_wash: 37%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10079.jpg: Predicted in 10.939000 milli-seconds.
+hersheys_symphony: 62%
+campbells_chunky_classic_chicken_noodle: 90%
+martinellis_apple_juice: 64%
+tapatio_hot_sauce: 41%
+nabisco_nilla_wafers: 71%
+crayola_24_crayons: 100%
+pepperidge_farm_milano_cookies_double_chocolate: 32%
+chewy_dips_peanut_butter: 47%
+frappuccino_coffee: 31%
+cheerios: 98%
+nature_vally_fruit_and_nut: 96%
+martinellis_apple_juice: 78%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10052.jpg: Predicted in 10.914000 milli-seconds.
+nature_valley_crunchy_oats_n_honey: 80%
+act_ii_butter_lovers_popcorn: 59%
+clif_z_bar_chocolate_chip: 71%
+palmolive_orange: 53%
+crayola_24_crayons: 93%
+coffee_mate_french_vanilla: 78%
+chewy_dips_chocolate_chip: 50%
+quaker_big_chewy_chocolate_chip: 41%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 91%
+crystal_hot_sauce: 73%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10029.jpg: Predicted in 10.825000 milli-seconds.
+bulls_eye_bbq_sauce_original: 76%
+crayola_24_crayons: 85%
+haribo_gold_bears_gummi_candy: 100%
+dr_pepper: 99%
+redbull: 43%
+pop_tararts_strawberry: 94%
+crayola_24_crayons: 53%
+nature_vally_fruit_and_nut: 56%
+martinellis_apple_juice: 29%
+reeses_pieces: 95%
+crayola_24_crayons: 30%
+quaker_big_chewy_chocolate_chip: 28%
+chewy_dips_chocolate_chip: 35%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10111.jpg: Predicted in 11.243000 milli-seconds.
+chewy_dips_chocolate_chip: 28%
+hunts_sauce: 28%
+twix: 99%
+bumblebee_albacore: 96%
+honey_bunches_of_oats_honey_roasted: 99%
+crayola_24_crayons: 99%
+cholula_chipotle_hot_sauce: 95%
+listerine_green: 96%
+hersheys_cocoa : 95%
+honey_bunches_of_oats_with_almonds: 99%
+coca_cola_glass_bottle: 66%
+aunt_jemima_original_syrup: 92%
+act_ii_butter_lovers_popcorn: 97%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10080.jpg: Predicted in 10.937000 milli-seconds.
+hersheys_symphony: 59%
+campbells_chunky_classic_chicken_noodle: 90%
+martinellis_apple_juice: 45%
+tapatio_hot_sauce: 38%
+nabisco_nilla_wafers: 78%
+crayola_24_crayons: 100%
+pepperidge_farm_milano_cookies_double_chocolate: 31%
+chewy_dips_peanut_butter: 42%
+frappuccino_coffee: 32%
+cheerios: 98%
+nature_vally_fruit_and_nut: 97%
+martinellis_apple_juice: 72%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10088.jpg: Predicted in 10.830000 milli-seconds.
+act_ii_butter_lovers_popcorn: 92%
+cheerios: 100%
+hersheys_symphony: 93%
+chewy_dips_chocolate_chip: 69%
+david_sunflower_seeds: 95%
+campbells_chunky_classic_chicken_noodle: 99%
+crayola_24_crayons: 99%
+chewy_dips_peanut_butter: 95%
+nature_vally_fruit_and_nut: 96%
+martinellis_apple_juice: 71%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10043.jpg: Predicted in 10.965000 milli-seconds.
+pepperidge_farm_milk_chocolate_macadamia_cookies: 32%
+honey_bunches_of_oats_honey_roasted: 44%
+haribo_gold_bears_gummi_candy: 92%
+reeses_pieces: 97%
+chewy_dips_chocolate_chip: 94%
+coffee_mate_french_vanilla: 95%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10074.jpg: Predicted in 11.248000 milli-seconds.
+cheerios: 93%
+nabisco_nilla_wafers: 95%
+ritz_crackers: 81%
+honey_bunches_of_oats_with_almonds: 32%
+chewy_dips_chocolate_chip: 95%
+nature_vally_fruit_and_nut: 90%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10055.jpg: Predicted in 11.064000 milli-seconds.
+pepperidge_farm_milk_chocolate_macadamia_cookies: 88%
+nature_valley_crunchy_oats_n_honey: 99%
+clif_z_bar_chocolate_chip: 60%
+nature_valley_crunchy_oats_n_honey: 34%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10102.jpg: Predicted in 10.851000 milli-seconds.
+act_ii_butter_lovers_popcorn: 90%
+band_aid_clear_strips: 62%
+aunt_jemima_original_syrup: 59%
+bumblebee_albacore: 99%
+monster_energy: 30%
+twix: 98%
+cholula_chipotle_hot_sauce: 92%
+crayola_24_crayons: 100%
+david_sunflower_seeds: 68%
+martinellis_apple_juice: 91%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10050.jpg: Predicted in 10.858000 milli-seconds.
+dr_pepper: 44%
+mom_to_mom_butternut_squash_pear: 51%
+quaker_big_chewy_chocolate_chip: 83%
+nature_valley_crunchy_oats_n_honey: 79%
+clif_z_bar_chocolate_chip: 60%
+ritz_crackers: 58%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10037.jpg: Predicted in 10.942000 milli-seconds.
+bulls_eye_bbq_sauce_original: 92%
+kitkat_king_size: 74%
+haribo_gold_bears_gummi_candy: 100%
+dr_pepper: 99%
+pop_tararts_strawberry: 100%
+mom_to_mom_butternut_squash_pear: 83%
+reeses_pieces: 98%
+cheerios: 90%
+crayola_24_crayons: 89%
+bumblebee_albacore: 44%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 66%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10096.jpg: Predicted in 10.855000 milli-seconds.
+act_ii_butter_lovers_popcorn: 42%
+cheerios: 100%
+martinellis_apple_juice: 27%
+hersheys_symphony: 92%
+campbells_chunky_classic_chicken_noodle: 93%
+nature_vally_fruit_and_nut: 96%
+coca_cola_glass_bottle: 78%
+david_sunflower_seeds: 97%
+twix: 79%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10023.jpg: Predicted in 11.255000 milli-seconds.
+bulls_eye_bbq_sauce_original: 68%
+haribo_gold_bears_gummi_candy: 100%
+dr_pepper: 99%
+reeses_pieces: 100%
+cinnamon_toast_crunch: 51%
+crayola_24_crayons: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10018.jpg: Predicted in 11.233000 milli-seconds.
+dr_pepper: 45%
+cinnamon_toast_crunch: 35%
+cheeze_it: 88%
+pringles_bbq: 91%
+haribo_gold_bears_gummi_candy: 94%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10105.jpg: Predicted in 10.842000 milli-seconds.
+act_ii_butter_lovers_popcorn: 91%
+band_aid_clear_strips: 73%
+aunt_jemima_original_syrup: 46%
+bumblebee_albacore: 99%
+monster_energy: 46%
+twix: 98%
+cholula_chipotle_hot_sauce: 94%
+crayola_24_crayons: 100%
+david_sunflower_seeds: 59%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10003.jpg: Predicted in 11.183000 milli-seconds.
+cholula_chipotle_hot_sauce: 100%
+cheeze_it: 88%
+crayola_24_crayons: 76%
+honey_bunches_of_oats_honey_roasted: 75%
+monster_energy: 34%
+hersheys_symphony: 62%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 43%
+honey_bunches_of_oats_with_almonds: 98%
+hunts_sauce: 45%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10009.jpg: Predicted in 10.884000 milli-seconds.
+honey_bunches_of_oats_honey_roasted: 85%
+dr_pepper: 31%
+hersheys_symphony: 31%
+listerine_green: 100%
+cheeze_it: 100%
+crayola_24_crayons: 98%
+honey_bunches_of_oats_with_almonds: 99%
+hersheys_cocoa : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10062.jpg: Predicted in 11.189000 milli-seconds.
+clif_z_bar_chocolate_chip: 57%
+campbells_chunky_classic_chicken_noodle: 70%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 88%
+pepperidge_farm_milano_cookies_double_chocolate: 34%
+nature_valley_crunchy_oats_n_honey: 62%
+crayola_24_crayons: 43%
+snickers: 29%
+cheerios: 66%
+crayola_24_crayons: 32%
+ritz_crackers: 99%
+frappuccino_coffee: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10115.jpg: Predicted in 10.663000 milli-seconds.
+bumblebee_albacore: 94%
+honey_bunches_of_oats_honey_roasted: 98%
+crayola_24_crayons: 99%
+cholula_chipotle_hot_sauce: 95%
+listerine_green: 96%
+hersheys_cocoa : 98%
+honey_bunches_of_oats_with_almonds: 100%
+aunt_jemima_original_syrup: 87%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10048.jpg: Predicted in 11.550000 milli-seconds.
+crayola_24_crayons: 62%
+nature_valley_crunchy_oats_n_honey: 57%
+crayola_24_crayons: 53%
+clif_z_bar_chocolate_chip: 89%
+crayola_24_crayons: 43%
+mom_to_mom_butternut_squash_pear: 34%
+act_ii_butter_lovers_popcorn: 99%
+dr_pepper: 44%
+palmolive_orange: 36%
+chewy_dips_peanut_butter: 78%
+cheerios: 78%
+crayola_24_crayons: 98%
+coffee_mate_french_vanilla: 55%
+cinnamon_toast_crunch: 78%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10045.jpg: Predicted in 11.488000 milli-seconds.
+kitkat_king_size: 87%
+dr_pepper: 58%
+spam: 56%
+clif_z_bar_chocolate_chip: 99%
+twix: 31%
+martinellis_apple_juice: 42%
+dr_pepper: 30%
+act_ii_butter_lovers_popcorn: 98%
+chewy_dips_peanut_butter: 36%
+cheerios: 27%
+crayola_24_crayons: 99%
+cinnamon_toast_crunch: 66%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10027.jpg: Predicted in 11.382000 milli-seconds.
+dr_pepper: 90%
+jif_creamy_peanut_butter: 35%
+reeses_pieces: 70%
+bulls_eye_bbq_sauce_original: 25%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10059.jpg: Predicted in 11.415000 milli-seconds.
+nature_valley_crunchy_oats_n_honey: 52%
+martinellis_apple_juice: 60%
+dr_pepper: 55%
+clif_z_bar_chocolate_chip: 72%
+tapatio_hot_sauce: 91%
+nabisco_nilla_wafers: 75%
+palmolive_orange: 70%
+pepperidge_farm_milano_cookies_double_chocolate: 72%
+crayola_24_crayons: 91%
+coffee_mate_french_vanilla: 66%
+frappuccino_coffee: 35%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 94%
+crystal_hot_sauce: 87%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10086.jpg: Predicted in 11.222000 milli-seconds.
+cheerios: 100%
+hersheys_symphony: 85%
+chewy_dips_chocolate_chip: 85%
+david_sunflower_seeds: 96%
+campbells_chunky_classic_chicken_noodle: 99%
+crayola_24_crayons: 100%
+chewy_dips_peanut_butter: 96%
+nature_vally_fruit_and_nut: 97%
+martinellis_apple_juice: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10060.jpg: Predicted in 11.034000 milli-seconds.
+nature_valley_crunchy_oats_n_honey: 57%
+martinellis_apple_juice: 58%
+dr_pepper: 49%
+clif_z_bar_chocolate_chip: 76%
+tapatio_hot_sauce: 87%
+chewy_dips_chocolate_chip: 28%
+nabisco_nilla_wafers: 65%
+palmolive_orange: 84%
+pepperidge_farm_milano_cookies_double_chocolate: 63%
+crayola_24_crayons: 88%
+frappuccino_coffee: 39%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 95%
+crystal_hot_sauce: 88%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10095.jpg: Predicted in 11.533000 milli-seconds.
+act_ii_butter_lovers_popcorn: 73%
+hersheys_symphony: 75%
+david_sunflower_seeds: 94%
+twix: 88%
+campbells_chunky_classic_chicken_noodle: 98%
+crayola_24_crayons: 99%
+monster_energy: 29%
+martinellis_apple_juice: 56%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10115.jpg: Predicted in 11.745000 milli-seconds.
+listerine_green: 59%
+act_ii_butter_lovers_popcorn: 53%
+honey_bunches_of_oats_honey_roasted: 33%
+david_sunflower_seeds: 43%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10113.jpg: Predicted in 11.569000 milli-seconds.
+aunt_jemima_original_syrup: 54%
+act_ii_butter_lovers_popcorn: 81%
+honey_bunches_of_oats_with_almonds: 61%
+david_sunflower_seeds: 49%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10052.jpg: Predicted in 11.525000 milli-seconds.
+crystal_hot_sauce: 43%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 60%
+pop_tararts_strawberry: 57%
+mom_to_mom_butternut_squash_pear: 50%
+quaker_big_chewy_chocolate_chip: 75%
+nature_valley_crunchy_oats_n_honey: 81%
+clif_z_bar_chocolate_chip: 67%
+ritz_crackers: 65%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10001.jpg: Predicted in 11.560000 milli-seconds.
+honey_bunches_of_oats_honey_roasted: 93%
+bumblebee_albacore: 95%
+pringles_bbq: 62%
+dr_pepper: 49%
+cholula_chipotle_hot_sauce: 88%
+listerine_green: 100%
+hersheys_symphony: 95%
+cheeze_it: 100%
+crayola_24_crayons: 99%
+honey_bunches_of_oats_with_almonds: 99%
+hersheys_cocoa : 95%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10013.jpg: Predicted in 11.383000 milli-seconds.
+cheeze_it: 92%
+pringles_bbq: 100%
+white_rain_body_wash: 55%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10083.jpg: Predicted in 11.219000 milli-seconds.
+cheerios: 99%
+chewy_dips_peanut_butter: 40%
+chewy_dips_chocolate_chip: 35%
+nabisco_nilla_wafers: 80%
+pepperidge_farm_milano_cookies_double_chocolate: 86%
+nature_valley_crunchy_oats_n_honey: 27%
+nature_vally_fruit_and_nut: 31%
+frappuccino_coffee: 57%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10026.jpg: Predicted in 11.005000 milli-seconds.
+band_aid_clear_strips: 41%
+dr_pepper: 73%
+haribo_gold_bears_gummi_candy: 31%
+jif_creamy_peanut_butter: 33%
+reeses_pieces: 98%
+bulls_eye_bbq_sauce_original: 32%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10078.jpg: Predicted in 11.203000 milli-seconds.
+hersheys_symphony: 60%
+campbells_chunky_classic_chicken_noodle: 96%
+dr_pepper: 35%
+martinellis_apple_juice: 36%
+tapatio_hot_sauce: 38%
+nabisco_nilla_wafers: 72%
+crayola_24_crayons: 100%
+pepperidge_farm_milano_cookies_double_chocolate: 29%
+chewy_dips_peanut_butter: 47%
+cheerios: 98%
+nature_vally_fruit_and_nut: 95%
+martinellis_apple_juice: 68%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10102.jpg: Predicted in 11.530000 milli-seconds.
+martinellis_apple_juice: 77%
+aunt_jemima_original_syrup: 46%
+twix: 66%
+act_ii_butter_lovers_popcorn: 87%
+campbells_chunky_classic_chicken_noodle: 42%
+dove_white: 34%
+hersheys_symphony: 91%
+david_sunflower_seeds: 47%
+bumblebee_albacore: 44%
+coca_cola_glass_bottle: 26%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10065.jpg: Predicted in 11.391000 milli-seconds.
+nabisco_nilla_wafers: 55%
+clif_z_bar_chocolate_chip: 94%
+campbells_chunky_classic_chicken_noodle: 42%
+nature_valley_crunchy_oats_n_honey: 90%
+cheerios: 79%
+ritz_crackers: 99%
+frappuccino_coffee: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10101.jpg: Predicted in 11.556000 milli-seconds.
+act_ii_butter_lovers_popcorn: 86%
+band_aid_clear_strips: 71%
+aunt_jemima_original_syrup: 29%
+bumblebee_albacore: 100%
+monster_energy: 60%
+campbells_chunky_classic_chicken_noodle: 100%
+twix: 96%
+cholula_chipotle_hot_sauce: 92%
+crayola_24_crayons: 100%
+martinellis_apple_juice: 78%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10093.jpg: Predicted in 11.547000 milli-seconds.
+act_ii_butter_lovers_popcorn: 34%
+cheerios: 100%
+martinellis_apple_juice: 30%
+hersheys_symphony: 95%
+chewy_dips_peanut_butter: 36%
+campbells_chunky_classic_chicken_noodle: 67%
+chewy_dips_chocolate_chip: 67%
+coca_cola_glass_bottle: 75%
+david_sunflower_seeds: 96%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10049.jpg: Predicted in 11.311000 milli-seconds.
+dr_pepper: 59%
+chewy_dips_peanut_butter: 32%
+mom_to_mom_butternut_squash_pear: 56%
+quaker_big_chewy_chocolate_chip: 81%
+nature_valley_crunchy_oats_n_honey: 81%
+clif_z_bar_chocolate_chip: 91%
+ritz_crackers: 49%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10011.jpg: Predicted in 11.321000 milli-seconds.
+pepperidge_farm_milk_chocolate_macadamia_cookies: 25%
+honey_bunches_of_oats_honey_roasted: 40%
+honey_bunches_of_oats_with_almonds: 85%
+white_rain_body_wash: 49%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10096.jpg: Predicted in 10.991000 milli-seconds.
+act_ii_butter_lovers_popcorn: 77%
+hersheys_symphony: 78%
+david_sunflower_seeds: 90%
+twix: 88%
+campbells_chunky_classic_chicken_noodle: 98%
+crayola_24_crayons: 99%
+monster_energy: 28%
+martinellis_apple_juice: 69%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10106.jpg: Predicted in 10.931000 milli-seconds.
+bumblebee_albacore: 87%
+twix: 98%
+crayola_24_crayons: 100%
+cholula_chipotle_hot_sauce: 83%
+hersheys_cocoa : 90%
+coca_cola_glass_bottle: 42%
+aunt_jemima_original_syrup: 94%
+act_ii_butter_lovers_popcorn: 94%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10108.jpg: Predicted in 10.932000 milli-seconds.
+bumblebee_albacore: 91%
+twix: 99%
+honey_bunches_of_oats_honey_roasted: 99%
+crayola_24_crayons: 99%
+cholula_chipotle_hot_sauce: 94%
+hersheys_cocoa : 94%
+honey_bunches_of_oats_with_almonds: 100%
+coca_cola_glass_bottle: 61%
+aunt_jemima_original_syrup: 94%
+act_ii_butter_lovers_popcorn: 97%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10031.jpg: Predicted in 10.840000 milli-seconds.
+redbull: 33%
+dr_pepper: 89%
+haribo_gold_bears_gummi_candy: 30%
+reeses_pieces: 47%
+pop_tararts_strawberry: 26%
+quaker_big_chewy_chocolate_chip: 40%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10072.jpg: Predicted in 11.500000 milli-seconds.
+cheerios: 76%
+nabisco_nilla_wafers: 83%
+cheerios: 27%
+chewy_dips_chocolate_chip: 96%
+ritz_crackers: 83%
+nature_vally_fruit_and_nut: 41%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10071.jpg: Predicted in 10.749000 milli-seconds.
+cheerios: 78%
+nabisco_nilla_wafers: 81%
+ritz_crackers: 89%
+chewy_dips_chocolate_chip: 96%
+nature_vally_fruit_and_nut: 49%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10097.jpg: Predicted in 10.829000 milli-seconds.
+act_ii_butter_lovers_popcorn: 39%
+cheerios: 100%
+martinellis_apple_juice: 27%
+hersheys_symphony: 91%
+campbells_chunky_classic_chicken_noodle: 50%
+coca_cola_glass_bottle: 69%
+david_sunflower_seeds: 96%
+twix: 79%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10035.jpg: Predicted in 10.935000 milli-seconds.
+dr_pepper: 37%
+haribo_gold_bears_gummi_candy: 47%
+dr_pepper: 80%
+chewy_dips_chocolate_chip: 25%
+haribo_gold_bears_gummi_candy: 74%
+reeses_pieces: 52%
+bulls_eye_bbq_sauce_original: 40%
+quaker_big_chewy_chocolate_chip: 46%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10062.jpg: Predicted in 10.829000 milli-seconds.
+nature_valley_crunchy_oats_n_honey: 91%
+dr_pepper: 49%
+martinellis_apple_juice: 50%
+clif_z_bar_chocolate_chip: 74%
+tapatio_hot_sauce: 84%
+chewy_dips_chocolate_chip: 41%
+nabisco_nilla_wafers: 71%
+palmolive_orange: 85%
+pepperidge_farm_milano_cookies_double_chocolate: 50%
+crayola_24_crayons: 79%
+frappuccino_coffee: 38%
+crystal_hot_sauce: 79%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10064.jpg: Predicted in 10.867000 milli-seconds.
+nabisco_nilla_wafers: 35%
+clif_z_bar_chocolate_chip: 94%
+campbells_chunky_classic_chicken_noodle: 33%
+nature_valley_crunchy_oats_n_honey: 92%
+snickers: 34%
+cheerios: 63%
+ritz_crackers: 99%
+frappuccino_coffee: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10092.jpg: Predicted in 11.256000 milli-seconds.
+redbull: 26%
+cheerios: 99%
+hersheys_symphony: 93%
+chewy_dips_peanut_butter: 40%
+campbells_chunky_classic_chicken_noodle: 68%
+chewy_dips_chocolate_chip: 50%
+david_sunflower_seeds: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10043.jpg: Predicted in 10.832000 milli-seconds.
+kitkat_king_size: 87%
+spam: 76%
+dr_pepper: 31%
+martinellis_apple_juice: 37%
+act_ii_butter_lovers_popcorn: 100%
+reeses_pieces: 94%
+chewy_dips_peanut_butter: 46%
+cheerios: 35%
+crayola_24_crayons: 99%
+cinnamon_toast_crunch: 70%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10039.jpg: Predicted in 11.058000 milli-seconds.
+bumblebee_albacore: 27%
+bulls_eye_bbq_sauce_original: 93%
+crayola_24_crayons: 50%
+haribo_gold_bears_gummi_candy: 100%
+dr_pepper: 98%
+pop_tararts_strawberry: 99%
+mom_to_mom_butternut_squash_pear: 84%
+reeses_pieces: 97%
+cheerios: 87%
+crayola_24_crayons: 89%
+bumblebee_albacore: 45%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 67%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10100.jpg: Predicted in 10.658000 milli-seconds.
+martinellis_apple_juice: 87%
+aunt_jemima_original_syrup: 30%
+twix: 69%
+act_ii_butter_lovers_popcorn: 88%
+campbells_chunky_classic_chicken_noodle: 40%
+hersheys_symphony: 99%
+david_sunflower_seeds: 82%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10025.jpg: Predicted in 10.671000 milli-seconds.
+bulls_eye_bbq_sauce_original: 82%
+haribo_gold_bears_gummi_candy: 100%
+dr_pepper: 99%
+act_ii_butter_lovers_popcorn: 28%
+reeses_pieces: 100%
+crayola_24_crayons: 100%
+kitkat_king_size: 29%
+campbells_chunky_classic_chicken_noodle: 30%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10014.jpg: Predicted in 11.400000 milli-seconds.
+mom_to_mom_sweet_potato_corn_apple: 73%
+pringles_bbq: 100%
+hersheys_symphony: 26%
+cheeze_it: 100%
+crayola_24_crayons: 98%
+white_rain_body_wash: 33%
+monster_energy: 58%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10020.jpg: Predicted in 11.193000 milli-seconds.
+bulls_eye_bbq_sauce_original: 55%
+pringles_bbq: 87%
+dr_pepper: 51%
+haribo_gold_bears_gummi_candy: 100%
+dr_pepper: 95%
+act_ii_butter_lovers_popcorn: 47%
+redbull: 25%
+cheeze_it: 100%
+reeses_pieces: 100%
+crayola_24_crayons: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10094.jpg: Predicted in 11.164000 milli-seconds.
+act_ii_butter_lovers_popcorn: 27%
+cheerios: 99%
+martinellis_apple_juice: 29%
+hersheys_symphony: 93%
+chewy_dips_peanut_butter: 41%
+campbells_chunky_classic_chicken_noodle: 69%
+chewy_dips_chocolate_chip: 51%
+coca_cola_glass_bottle: 79%
+david_sunflower_seeds: 96%
+twix: 82%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10073.jpg: Predicted in 10.928000 milli-seconds.
+cheerios: 91%
+nabisco_nilla_wafers: 93%
+nature_valley_crunchy_oats_n_honey: 90%
+nature_valley_crunchy_oats_n_honey: 37%
+ritz_crackers: 91%
+chewy_dips_chocolate_chip: 95%
+nature_vally_fruit_and_nut: 83%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10036.jpg: Predicted in 11.462000 milli-seconds.
+haribo_gold_bears_gummi_candy: 38%
+dr_pepper: 31%
+clif_crunch_peanut_butter: 36%
+haribo_gold_bears_gummi_candy: 76%
+reeses_pieces: 55%
+bulls_eye_bbq_sauce_original: 61%
+pop_tararts_strawberry: 49%
+quaker_big_chewy_chocolate_chip: 49%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10054.jpg: Predicted in 10.798000 milli-seconds.
+crystal_hot_sauce: 27%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 95%
+quaker_big_chewy_chocolate_chip: 95%
+kitkat_king_size: 33%
+nature_valley_crunchy_oats_n_honey: 92%
+clif_z_bar_chocolate_chip: 60%
+nature_valley_crunchy_oats_n_honey: 38%
+ritz_crackers: 50%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10009.jpg: Predicted in 11.201000 milli-seconds.
+pepperidge_farm_milk_chocolate_macadamia_cookies: 61%
+cheeze_it: 80%
+honey_bunches_of_oats_honey_roasted: 44%
+honey_bunches_of_oats_honey_roasted: 26%
+honey_bunches_of_oats_with_almonds: 81%
+white_rain_body_wash: 42%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10069.jpg: Predicted in 11.085000 milli-seconds.
+nabisco_nilla_wafers: 93%
+ritz_crackers: 91%
+chewy_dips_chocolate_chip: 89%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10034.jpg: Predicted in 10.740000 milli-seconds.
+dr_pepper: 34%
+haribo_gold_bears_gummi_candy: 49%
+dr_pepper: 85%
+cinnamon_toast_crunch: 28%
+haribo_gold_bears_gummi_candy: 70%
+reeses_pieces: 58%
+pop_tararts_strawberry: 32%
+quaker_big_chewy_chocolate_chip: 49%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10032.jpg: Predicted in 11.165000 milli-seconds.
+bulls_eye_bbq_sauce_original: 90%
+crayola_24_crayons: 66%
+haribo_gold_bears_gummi_candy: 100%
+dr_pepper: 99%
+pop_tararts_strawberry: 97%
+crayola_24_crayons: 48%
+nature_vally_fruit_and_nut: 48%
+martinellis_apple_juice: 48%
+reeses_pieces: 94%
+crayola_24_crayons: 37%
+quaker_big_chewy_chocolate_chip: 40%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10077.jpg: Predicted in 11.000000 milli-seconds.
+hersheys_symphony: 54%
+campbells_chunky_classic_chicken_noodle: 96%
+dr_pepper: 34%
+martinellis_apple_juice: 32%
+tapatio_hot_sauce: 49%
+nabisco_nilla_wafers: 78%
+crayola_24_crayons: 100%
+pepperidge_farm_milano_cookies_double_chocolate: 39%
+chewy_dips_peanut_butter: 51%
+frappuccino_coffee: 43%
+cheerios: 97%
+nature_vally_fruit_and_nut: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10005.jpg: Predicted in 11.252000 milli-seconds.
+honey_bunches_of_oats_honey_roasted: 95%
+pringles_bbq: 59%
+dr_pepper: 55%
+dr_pepper: 60%
+redbull: 98%
+listerine_green: 100%
+hersheys_symphony: 97%
+cheeze_it: 100%
+crayola_24_crayons: 100%
+honey_bunches_of_oats_with_almonds: 100%
+hersheys_cocoa : 91%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10047.jpg: Predicted in 10.832000 milli-seconds.
+crayola_24_crayons: 58%
+nature_vally_fruit_and_nut: 31%
+nature_valley_crunchy_oats_n_honey: 84%
+crayola_24_crayons: 50%
+clif_z_bar_chocolate_chip: 90%
+nature_vally_fruit_and_nut: 34%
+act_ii_butter_lovers_popcorn: 99%
+chewy_dips_peanut_butter: 59%
+quaker_big_chewy_chocolate_chip: 35%
+cheerios: 90%
+crayola_24_crayons: 99%
+coffee_mate_french_vanilla: 59%
+cinnamon_toast_crunch: 70%
+mom_to_mom_butternut_squash_pear: 30%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10008.jpg: Predicted in 10.831000 milli-seconds.
+honey_bunches_of_oats_honey_roasted: 82%
+pringles_bbq: 28%
+dr_pepper: 48%
+redbull: 66%
+listerine_green: 100%
+hersheys_symphony: 97%
+cheeze_it: 100%
+crayola_24_crayons: 100%
+honey_bunches_of_oats_with_almonds: 100%
+monster_energy: 31%
+hersheys_cocoa : 95%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10024.jpg: Predicted in 10.858000 milli-seconds.
+dr_pepper: 40%
+cinnamon_toast_crunch: 60%
+hersheys_bar: 59%
+jif_creamy_peanut_butter: 93%
+a1_steak_sauce: 52%
+bulls_eye_bbq_sauce_original: 90%
+haribo_gold_bears_gummi_candy: 97%
+crayola_24_crayons: 57%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10034.jpg: Predicted in 11.241000 milli-seconds.
+bulls_eye_bbq_sauce_original: 88%
+crayola_24_crayons: 85%
+haribo_gold_bears_gummi_candy: 100%
+dr_pepper: 99%
+crayola_24_crayons: 55%
+pop_tararts_strawberry: 97%
+nature_vally_fruit_and_nut: 56%
+martinellis_apple_juice: 41%
+reeses_pieces: 95%
+crayola_24_crayons: 57%
+quaker_big_chewy_chocolate_chip: 83%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10028.jpg: Predicted in 10.742000 milli-seconds.
+redbull: 43%
+dr_pepper: 90%
+reeses_pieces: 68%
+pop_tararts_strawberry: 43%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10080.jpg: Predicted in 10.847000 milli-seconds.
+martinellis_apple_juice: 66%
+hersheys_symphony: 91%
+cheerios: 99%
+chewy_dips_peanut_butter: 44%
+chewy_dips_chocolate_chip: 34%
+nabisco_nilla_wafers: 83%
+nature_vally_fruit_and_nut: 40%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10081.jpg: Predicted in 10.765000 milli-seconds.
+hersheys_symphony: 64%
+campbells_chunky_classic_chicken_noodle: 91%
+nabisco_nilla_wafers: 86%
+crayola_24_crayons: 99%
+pepperidge_farm_milano_cookies_double_chocolate: 74%
+chewy_dips_peanut_butter: 65%
+frappuccino_coffee: 46%
+cheerios: 98%
+martinellis_apple_juice: 34%
+nature_vally_fruit_and_nut: 92%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10021.jpg: Predicted in 10.956000 milli-seconds.
+dr_pepper: 42%
+hunts_sauce: 30%
+cinnamon_toast_crunch: 35%
+hersheys_bar: 28%
+cheeze_it: 78%
+bulls_eye_bbq_sauce_original: 32%
+haribo_gold_bears_gummi_candy: 95%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10036.jpg: Predicted in 10.926000 milli-seconds.
+bulls_eye_bbq_sauce_original: 92%
+haribo_gold_bears_gummi_candy: 100%
+dr_pepper: 99%
+pop_tararts_strawberry: 100%
+mom_to_mom_butternut_squash_pear: 78%
+reeses_pieces: 98%
+cheerios: 89%
+crayola_24_crayons: 88%
+bumblebee_albacore: 46%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 71%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10004.jpg: Predicted in 11.224000 milli-seconds.
+cheeze_it: 90%
+crayola_24_crayons: 72%
+honey_bunches_of_oats_honey_roasted: 80%
+monster_energy: 36%
+hersheys_symphony: 52%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 40%
+honey_bunches_of_oats_with_almonds: 97%
+hunts_sauce: 45%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10087.jpg: Predicted in 10.867000 milli-seconds.
+cheerios: 99%
+hersheys_symphony: 82%
+chewy_dips_chocolate_chip: 75%
+david_sunflower_seeds: 94%
+campbells_chunky_classic_chicken_noodle: 100%
+crayola_24_crayons: 99%
+chewy_dips_peanut_butter: 95%
+nature_vally_fruit_and_nut: 96%
+martinellis_apple_juice: 86%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10002.jpg: Predicted in 10.762000 milli-seconds.
+honey_bunches_of_oats_honey_roasted: 95%
+bumblebee_albacore: 96%
+pringles_bbq: 59%
+dr_pepper: 55%
+cholula_chipotle_hot_sauce: 87%
+listerine_green: 100%
+hersheys_symphony: 96%
+cheeze_it: 100%
+crayola_24_crayons: 99%
+honey_bunches_of_oats_with_almonds: 100%
+hersheys_cocoa : 94%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10035.jpg: Predicted in 10.655000 milli-seconds.
+bulls_eye_bbq_sauce_original: 88%
+crayola_24_crayons: 83%
+haribo_gold_bears_gummi_candy: 100%
+dr_pepper: 99%
+crayola_24_crayons: 56%
+pop_tararts_strawberry: 94%
+nature_vally_fruit_and_nut: 56%
+martinellis_apple_juice: 44%
+reeses_pieces: 93%
+clif_crunch_peanut_butter: 25%
+chewy_dips_peanut_butter: 31%
+cheerios: 78%
+crayola_24_crayons: 53%
+coffee_mate_french_vanilla: 66%
+quaker_big_chewy_chocolate_chip: 81%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10024.jpg: Predicted in 10.766000 milli-seconds.
+bulls_eye_bbq_sauce_original: 76%
+haribo_gold_bears_gummi_candy: 100%
+dr_pepper: 99%
+reeses_pieces: 100%
+cinnamon_toast_crunch: 66%
+crayola_24_crayons: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10108.jpg: Predicted in 10.853000 milli-seconds.
+cholula_chipotle_hot_sauce: 96%
+aunt_jemima_original_syrup: 63%
+twix: 74%
+act_ii_butter_lovers_popcorn: 99%
+david_sunflower_seeds: 90%
+band_aid_clear_strips: 80%
+pop_tararts_strawberry: 42%
+bumblebee_albacore: 33%
+coca_cola_glass_bottle: 51%
+crayola_24_crayons: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10031.jpg: Predicted in 11.193000 milli-seconds.
+bulls_eye_bbq_sauce_original: 80%
+crayola_24_crayons: 78%
+haribo_gold_bears_gummi_candy: 100%
+dr_pepper: 99%
+pop_tararts_strawberry: 95%
+crayola_24_crayons: 48%
+martinellis_apple_juice: 28%
+nature_vally_fruit_and_nut: 54%
+martinellis_apple_juice: 35%
+reeses_pieces: 95%
+crayola_24_crayons: 44%
+quaker_big_chewy_chocolate_chip: 28%
+chewy_dips_chocolate_chip: 29%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10116.jpg: Predicted in 11.494000 milli-seconds.
+listerine_green: 59%
+act_ii_butter_lovers_popcorn: 50%
+honey_bunches_of_oats_honey_roasted: 35%
+bumblebee_albacore: 63%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10110.jpg: Predicted in 10.958000 milli-seconds.
+cholula_chipotle_hot_sauce: 98%
+aunt_jemima_original_syrup: 74%
+twix: 97%
+act_ii_butter_lovers_popcorn: 99%
+david_sunflower_seeds: 85%
+band_aid_clear_strips: 82%
+pop_tararts_strawberry: 43%
+bumblebee_albacore: 46%
+coca_cola_glass_bottle: 45%
+crayola_24_crayons: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10049.jpg: Predicted in 10.936000 milli-seconds.
+nature_valley_crunchy_oats_n_honey: 49%
+nature_vally_fruit_and_nut: 26%
+crayola_24_crayons: 61%
+crayola_24_crayons: 43%
+clif_z_bar_chocolate_chip: 88%
+mom_to_mom_butternut_squash_pear: 42%
+crayola_24_crayons: 37%
+act_ii_butter_lovers_popcorn: 99%
+palmolive_orange: 51%
+dr_pepper: 33%
+chewy_dips_peanut_butter: 78%
+cheerios: 70%
+crayola_24_crayons: 86%
+crystal_hot_sauce: 29%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10091.jpg: Predicted in 10.964000 milli-seconds.
+cheerios: 99%
+martinellis_apple_juice: 36%
+hersheys_symphony: 93%
+chewy_dips_peanut_butter: 40%
+campbells_chunky_classic_chicken_noodle: 73%
+chewy_dips_chocolate_chip: 45%
+david_sunflower_seeds: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10042.jpg: Predicted in 10.766000 milli-seconds.
+dr_pepper: 85%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 33%
+honey_bunches_of_oats_honey_roasted: 46%
+haribo_gold_bears_gummi_candy: 94%
+reeses_pieces: 96%
+chewy_dips_chocolate_chip: 92%
+coffee_mate_french_vanilla: 95%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10118.jpg: Predicted in 11.033000 milli-seconds.
+listerine_green: 73%
+honey_bunches_of_oats_honey_roasted: 56%
+bumblebee_albacore: 52%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10089.jpg: Predicted in 10.901000 milli-seconds.
+act_ii_butter_lovers_popcorn: 89%
+cheerios: 100%
+hersheys_symphony: 92%
+chewy_dips_chocolate_chip: 68%
+david_sunflower_seeds: 96%
+campbells_chunky_classic_chicken_noodle: 99%
+crayola_24_crayons: 99%
+chewy_dips_peanut_butter: 96%
+monster_energy: 26%
+nature_vally_fruit_and_nut: 95%
+martinellis_apple_juice: 75%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10056.jpg: Predicted in 10.901000 milli-seconds.
+nature_valley_crunchy_oats_n_honey: 37%
+tapatio_hot_sauce: 74%
+nabisco_nilla_wafers: 94%
+palmolive_orange: 42%
+crayola_24_crayons: 100%
+coffee_mate_french_vanilla: 85%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 87%
+crystal_hot_sauce: 89%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10077.jpg: Predicted in 10.849000 milli-seconds.
+cheerios: 96%
+nabisco_nilla_wafers: 97%
+frappuccino_coffee: 85%
+chewy_dips_chocolate_chip: 95%
+nature_vally_fruit_and_nut: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10092.jpg: Predicted in 10.857000 milli-seconds.
+act_ii_butter_lovers_popcorn: 96%
+cheerios: 100%
+hersheys_symphony: 95%
+david_sunflower_seeds: 94%
+twix: 86%
+campbells_chunky_classic_chicken_noodle: 98%
+crayola_24_crayons: 99%
+nature_vally_fruit_and_nut: 78%
+martinellis_apple_juice: 72%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10041.jpg: Predicted in 10.857000 milli-seconds.
+dr_pepper: 35%
+haribo_gold_bears_gummi_candy: 31%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 30%
+honey_bunches_of_oats_honey_roasted: 41%
+haribo_gold_bears_gummi_candy: 50%
+reeses_pieces: 95%
+chewy_dips_chocolate_chip: 93%
+cinnamon_toast_crunch: 28%
+coffee_mate_french_vanilla: 97%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10066.jpg: Predicted in 11.252000 milli-seconds.
+nature_valley_crunchy_oats_n_honey: 92%
+martinellis_apple_juice: 77%
+dr_pepper: 62%
+clif_z_bar_chocolate_chip: 76%
+tapatio_hot_sauce: 88%
+chewy_dips_chocolate_chip: 34%
+nabisco_nilla_wafers: 60%
+palmolive_orange: 78%
+pepperidge_farm_milano_cookies_double_chocolate: 30%
+crayola_24_crayons: 88%
+frappuccino_coffee: 52%
+crystal_hot_sauce: 78%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10042.jpg: Predicted in 10.845000 milli-seconds.
+bulls_eye_bbq_sauce_original: 41%
+kitkat_king_size: 80%
+martinellis_apple_juice: 35%
+act_ii_butter_lovers_popcorn: 100%
+reeses_pieces: 93%
+chewy_dips_peanut_butter: 39%
+crayola_24_crayons: 99%
+cinnamon_toast_crunch: 78%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10060.jpg: Predicted in 10.891000 milli-seconds.
+nabisco_nilla_wafers: 35%
+clif_z_bar_chocolate_chip: 65%
+campbells_chunky_classic_chicken_noodle: 63%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 89%
+pepperidge_farm_milano_cookies_double_chocolate: 26%
+nature_valley_crunchy_oats_n_honey: 53%
+crayola_24_crayons: 57%
+snickers: 27%
+ritz_crackers: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10105.jpg: Predicted in 11.012000 milli-seconds.
+cholula_chipotle_hot_sauce: 52%
+aunt_jemima_original_syrup: 47%
+twix: 69%
+act_ii_butter_lovers_popcorn: 90%
+campbells_chunky_classic_chicken_noodle: 37%
+david_sunflower_seeds: 86%
+band_aid_clear_strips: 72%
+pop_tararts_strawberry: 48%
+coca_cola_glass_bottle: 36%
+crayola_24_crayons: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10091.jpg: Predicted in 10.863000 milli-seconds.
+act_ii_butter_lovers_popcorn: 95%
+cheerios: 100%
+hersheys_symphony: 94%
+david_sunflower_seeds: 94%
+twix: 87%
+campbells_chunky_classic_chicken_noodle: 99%
+crayola_24_crayons: 99%
+chewy_dips_peanut_butter: 93%
+nature_vally_fruit_and_nut: 93%
+martinellis_apple_juice: 74%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10089.jpg: Predicted in 10.941000 milli-seconds.
+cheerios: 100%
+chewy_dips_peanut_butter: 95%
+campbells_chunky_classic_chicken_noodle: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10030.jpg: Predicted in 10.667000 milli-seconds.
+bulls_eye_bbq_sauce_original: 68%
+crayola_24_crayons: 83%
+haribo_gold_bears_gummi_candy: 100%
+dr_pepper: 99%
+pop_tararts_strawberry: 95%
+crayola_24_crayons: 54%
+nature_vally_fruit_and_nut: 57%
+martinellis_apple_juice: 42%
+reeses_pieces: 95%
+crayola_24_crayons: 40%
+quaker_big_chewy_chocolate_chip: 37%
+chewy_dips_chocolate_chip: 25%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10022.jpg: Predicted in 10.940000 milli-seconds.
+dr_pepper: 61%
+cinnamon_toast_crunch: 39%
+hersheys_bar: 45%
+cheeze_it: 80%
+a1_steak_sauce: 42%
+haribo_gold_bears_gummi_candy: 96%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10056.jpg: Predicted in 11.219000 milli-seconds.
+pepperidge_farm_milk_chocolate_macadamia_cookies: 74%
+nature_valley_crunchy_oats_n_honey: 99%
+nature_valley_crunchy_oats_n_honey: 30%
+clif_z_bar_chocolate_chip: 49%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10025.jpg: Predicted in 10.913000 milli-seconds.
+haribo_gold_bears_gummi_candy: 27%
+dr_pepper: 37%
+arm_hammer_baking_soda: 36%
+cinnamon_toast_crunch: 69%
+jif_creamy_peanut_butter: 94%
+a1_steak_sauce: 60%
+bulls_eye_bbq_sauce_original: 89%
+haribo_gold_bears_gummi_candy: 97%
+crayola_24_crayons: 46%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10038.jpg: Predicted in 10.941000 milli-seconds.
+haribo_gold_bears_gummi_candy: 29%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 28%
+honey_bunches_of_oats_honey_roasted: 39%
+haribo_gold_bears_gummi_candy: 53%
+reeses_pieces: 98%
+chewy_dips_chocolate_chip: 95%
+coffee_mate_french_vanilla: 96%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10058.jpg: Predicted in 10.974000 milli-seconds.
+nabisco_nilla_wafers: 26%
+tapatio_hot_sauce: 52%
+clif_z_bar_chocolate_chip: 42%
+campbells_chunky_classic_chicken_noodle: 51%
+pepperidge_farm_milk_chocolate_macadamia_cookies: 86%
+pepperidge_farm_milano_cookies_double_chocolate: 46%
+nature_valley_crunchy_oats_n_honey: 48%
+crayola_24_crayons: 59%
+snickers: 28%
+ritz_crackers: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10048.jpg: Predicted in 11.200000 milli-seconds.
+dr_pepper: 58%
+chewy_dips_peanut_butter: 30%
+mom_to_mom_butternut_squash_pear: 67%
+quaker_big_chewy_chocolate_chip: 90%
+nature_valley_crunchy_oats_n_honey: 47%
+clif_z_bar_chocolate_chip: 88%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10006.jpg: Predicted in 10.921000 milli-seconds.
+pepperidge_farm_milk_chocolate_macadamia_cookies: 67%
+cheeze_it: 81%
+honey_bunches_of_oats_honey_roasted: 67%
+honey_bunches_of_oats_with_almonds: 80%
+white_rain_body_wash: 54%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_close_10045.jpg: Predicted in 11.295000 milli-seconds.
+pepperidge_farm_milk_chocolate_macadamia_cookies: 46%
+clif_crunch_peanut_butter: 77%
+pop_tararts_strawberry: 83%
+reeses_pieces: 97%
+chewy_dips_chocolate_chip: 98%
+cinnamon_toast_crunch: 36%
+coffee_mate_french_vanilla: 97%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/home/ssai4/7.testset/CAPP_testset_long_10093.jpg: Predicted in 11.222000 milli-seconds.
+act_ii_butter_lovers_popcorn: 94%
+cheerios: 100%
+hersheys_symphony: 91%
+david_sunflower_seeds: 90%
+twix: 90%
+campbells_chunky_classic_chicken_noodle: 99%
+crayola_24_crayons: 99%
+nature_vally_fruit_and_nut: 33%
+martinellis_apple_juice: 64%
+Enter Image Path: 

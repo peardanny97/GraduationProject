@@ -1,0 +1,6 @@
+0
+yolov3
+net.optimized_memory = 0 
+mini_batch = 4, batch = 64, time_steps = 1, train = 1 
+Create CUDA-stream - 0 
+ Create cudnn-handle 0 
